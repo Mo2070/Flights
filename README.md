@@ -1,5 +1,5 @@
 Flights Data Analysis and Visualization Project
-This project includes SQL queries and Tableau visualizations for analyzing flight data. It focuses on airports, flight delays, and aircraft models, providing insights into trends and performance.
+which includes SQL queries and Tableau visualizations for analyzing flight data. It focuses on airports, flight delays, and aircraft models, providing insights into trends and performance.
 
 Features
 SQL Queries:
